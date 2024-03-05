@@ -1,0 +1,33 @@
+Z:\Ofra\אלצ 2024\MaorSaban215713587\MaorSaban215713587\obj\Debug\MaorSaban215713587.csproj.AssemblyReference.cache
+Z:\Ofra\אלצ 2024\MaorSaban215713587\MaorSaban215713587\obj\Debug\MaorSaban215713587.Forms.FrmLogin.resources
+Z:\Ofra\אלצ 2024\MaorSaban215713587\MaorSaban215713587\obj\Debug\MaorSaban215713587.Properties.Resources.resources
+Z:\Ofra\אלצ 2024\MaorSaban215713587\MaorSaban215713587\obj\Debug\MaorSaban215713587.csproj.GenerateResource.cache
+Z:\Ofra\אלצ 2024\MaorSaban215713587\MaorSaban215713587\obj\Debug\MaorSaban215713587.csproj.CoreCompileInputs.cache
+Z:\Ofra\אלצ 2024\MaorSaban215713587\MaorSaban215713587\bin\Debug\MaorSaban215713587.exe.config
+Z:\Ofra\אלצ 2024\MaorSaban215713587\MaorSaban215713587\bin\Debug\MaorSaban215713587.exe
+Z:\Ofra\אלצ 2024\MaorSaban215713587\MaorSaban215713587\bin\Debug\MaorSaban215713587.pdb
+Z:\Ofra\אלצ 2024\MaorSaban215713587\MaorSaban215713587\obj\Debug\MaorSaban215713587.exe
+Z:\Ofra\אלצ 2024\MaorSaban215713587\MaorSaban215713587\obj\Debug\MaorSaban215713587.pdb
+Z:\Ofra\אלצ 2024\MaorSaban215713587\MaorSaban215713587\obj\Debug\MaorSaban215713587.Forms.FrmBuyPage.resources
+Z:\Ofra\אלצ 2024\MaorSaban215713587\MaorSaban215713587\obj\Debug\MaorSaban215713587.Forms.FrmClients.resources
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\bin\Debug\MaorSaban215713587.exe.config
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\bin\Debug\MaorSaban215713587.exe
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\bin\Debug\MaorSaban215713587.pdb
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.csprojAssemblyReference.cache
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.Forms.FrmBuyPage.resources
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.Forms.FrmLogin.resources
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.Forms.FrmMain.resources
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.Forms.FrmProducts.resources
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.Properties.Resources.resources
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.csproj.GenerateResource.cache
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.csproj.CoreCompileInputs.cache
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.exe
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.pdb
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.Forms.FrmnewProduct.resources
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.Forms.FrmPurchase.resources
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.Forms.FrmSuppliers.resources
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.Forms.FrmnewSupplier.resources
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.Forms.FrmSupplierProducts.resources
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.Forms.FrmOrders.resources
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.Forms.FrmOrderDetails.resources
+C:\Users\מאור סבן\OneDrive\שולחן העבודה\בית ספר\פרויקט יב\MaorSaban215713587\obj\Debug\MaorSaban215713587.Forms.FrmPrint.resources
